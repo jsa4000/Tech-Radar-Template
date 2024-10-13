@@ -6,7 +6,7 @@ COPY . .
 RUN npm run build
 
 FROM nginx:1.25.4-alpine-slim AS prod
-COPY --from=builder /app/dist /usr/share/nginx/html
+COPY --from=builder /app/build /usr/share/nginx/html
 COPY ./config/nginx.conf /etc/nginx/conf.d/default.conf
 
 EXPOSE 3000
