@@ -1,6 +1,6 @@
 {
   "basePath": "/",
-  "baseUrl": "https://jsa4000.github.io/Tech-Radar-Template",
+  "baseUrl": "https://jsa4000.github.io/Tech-Radar-Template/",
   "editUrl": "https://jsa4000.github.io/Tech-Radar-Template/blob/main/radar/{release}/{id}.md",
   "logoFile": "logo.svg",
   "jsFile": "",
