@@ -3,6 +3,7 @@
 .dockerignore
 .gitignore
 .env
+.techradar
 build
 dist
 node_modules
