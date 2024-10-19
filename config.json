@@ -10,7 +10,7 @@
     "showQuadrantList": true,
     "showEmptyRings": false
   },
-  "sections": ["radar", "tags", "list"],
+  "sections": ["radar", "tags"],
   "colors": {
     "foreground": "#fff",
     "background": "#2d2d30",
@@ -110,7 +110,7 @@
   ],
   "imprint": "https://jsa4000.github.io",
   "labels": {
-    "title": "Tech Radar Template",
+    "title": "Technology Radar Template",
     "imprint": "Legal Information",
     "quadrant": "Quadrant",
     "quadrantOverview": "Quadrant Overview",
